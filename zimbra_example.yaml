@@ -1,0 +1,5 @@
+user: calendar_king@king.com
+agent: person_who_gets_calendar_set@king.com
+pass: calendarkinghispass
+service_url: SOAP endpoint url
+adapter: net_http
